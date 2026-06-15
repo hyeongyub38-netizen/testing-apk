@@ -1,0 +1,25 @@
+Universe Sandbox Lite - 빠른 시작
+
+[PC 실행]
+1. Unity Hub에서 이 폴더 열기
+2. Universe Sandbox Lite > Create Demo Scene 클릭
+3. Assets/Scenes/UniverseSandboxLite.unity 열기
+4. Play
+
+[Windows exe 빌드]
+File > Build Settings > Windows, Mac, Linux > Windows x86_64 > Add Open Scenes > Build
+
+[Android APK 빌드]
+1. Unity Hub에서 Android Build Support + SDK/NDK + OpenJDK 설치
+2. File > Build Settings > Android > Switch Platform
+3. Add Open Scenes
+4. Build App Bundle 체크 해제
+5. Build 클릭하면 APK 생성
+
+[모바일 조작]
+왼쪽 아래 드래그 = 이동
+오른쪽 드래그 = 시점 회전
+두 손가락 = 줌
+행성 터치 = 선택
+오른쪽 버튼 = 소행성/블랙홀/포커스/따라가기
+위쪽 버튼 = 일시정지/리셋/시간배속/성능
